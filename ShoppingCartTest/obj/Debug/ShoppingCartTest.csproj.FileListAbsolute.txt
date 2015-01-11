@@ -1,0 +1,9 @@
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\bin\Debug\ShoppingCartTest.dll
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\bin\Debug\ShoppingCartTest.pdb
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\bin\Debug\nunit.framework.dll
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\bin\Debug\nunit.framework.xml
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\obj\Debug\ShoppingCartTest.csprojResolveAssemblyReference.cache
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\obj\Debug\ShoppingCartTest.dll
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\obj\Debug\ShoppingCartTest.pdb
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\bin\Debug\ShoppingCart.dll
+c:\users\jshuva\documents\visual studio 2013\Projects\ShoppingCart\ShoppingCartTest\bin\Debug\ShoppingCart.pdb
